@@ -1,0 +1,31 @@
+Export IDF from DesignSpark.
+
+Add height of the components by manually manipulating IDF. See datasheets at BOM.
+For the capacitors and resistors that it's not clear which height is needed, choose 
+the worst case of the family of the component.
+
+Some capacitors and resistors seem to be either  rotated or not in actual width and length.
+These compoents where centered and rotated, but this should NOT taken for granted because
+this issue is still PENDING! This components might have to be resized instead of centered + rotated
+
+Use two components to "emulate" the USB. One on TOP and the other on BOTTOM of the pcb.
+There will be a gap in the z-coord that the pcb exists.
+Take care that the resulting pair of components has correct total height (including the gap) and is placed
+correctly in the z-axis
+WARNING! The coordinates between these two components are mirrored! So the "left" for the one is on the "right" for the other.
+Keep that in mind when manually manipulate them.
+
+USB plug dimensions are smaller in the automatically produced IDF. Change them manually (consult datasheet)
+
+Add PCB slots 1x1 mm to the PCB outline
+
+PCB tolerances
+
+USB tolerance 0.25mm added only to the "free" side (all the tolerance, not the half).
+The other side is fixed to the PCB
+Tolerance for widht is +/- 0.10 mm (0.05mm per side)
+
+SD tolerance +/- 0.15mm for both width and length (0.075mm per side)
+
+SC tolerance +/- 0.20mm for both width and length (0.10mm per side)
+
