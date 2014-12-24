@@ -7,9 +7,12 @@ to use this layout you need the designtool [Designspark PCB](http://www.designsp
 Install the software, the open the projectfile
 
 for the **PROD** version
+
 stick20-p.prj
 
+
 for the **DEVELOPER** version
+
 Stick20.prj
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
