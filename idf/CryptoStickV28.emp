@@ -27,8 +27,9 @@ LIBRARY_FILE 3.0 "DesignSpark PCB 6.1" 2014/12/08.14:27:48 1 "" MM
 
 # http://www.molex.com/pdm_docs/sd/1040310811_sd.pdf
 # Tolerance +/- 0.15mm for width and length (0.075mm per side)
+# height tolerance including the sd-card +/-0.20mm (worst case +0.20mm)
 .ELECTRICAL
-"++CONNECTOR_SD" "++CONNECTOR_SD" MM 1.5700
+"++CONNECTOR_SD" "++CONNECTOR_SD" MM 1.7700
 0 -5.8650 -8.1350 0
 0 6.2350 -8.1350 0
 0 6.2350 7.4150 0
@@ -38,8 +39,9 @@ LIBRARY_FILE 3.0 "DesignSpark PCB 6.1" 2014/12/08.14:27:48 1 "" MM
 
 # http://www.molex.com/pdm_docs/sd/786463001_sd.pdf
 # Tolerance +/- 0.20mm for both width and length (0.10mm per side)
+# Height tolerance +/- 0.10mm (worst is +0.10mm
 .ELECTRICAL
-"++CONNECTOR_SC" "++CONNECTOR_SC" MM 1.4500
+"++CONNECTOR_SC" "++CONNECTOR_SC" MM 1.5500
 0 -7.7303 1.3591 0
 0 7.9097 1.3591 0
 0 7.9097 14.0191 0
@@ -173,7 +175,7 @@ LIBRARY_FILE 3.0 "DesignSpark PCB 6.1" 2014/12/08.14:27:48 1 "" MM
 # and +/- 0.10 mm to the width (0.05mm per side)
 # Tolerance for widht is +/- 0.10 mm (0.05mm per side)
 .ELECTRICAL
-"++CONNECTOR_USB-BUCHSE-A_NEU" "++CONNECTOR_USB-BUCHSE-A_NEU" MM 2.1000
+"++CONNECTOR_USB-BUCHSE-A_NEU" "++CONNECTOR_USB-BUCHSE-A_NEU" MM 2.1500
 1 1.5000 -6.0500 0
 1 1.5000 6.0500 0
 1 20.2500 6.0500 0
@@ -198,7 +200,7 @@ LIBRARY_FILE 3.0 "DesignSpark PCB 6.1" 2014/12/08.14:27:48 1 "" MM
 # and +/- 0.10 mm to the width (0.05mm per side)
 # Tolerance for widht is +/- 0.10 mm (0.05mm per side)
 .ELECTRICAL
-"++CONNECTOR_USB-BUCHSE-A_NEU-rest" "++CONNECTOR_USB-BUCHSE-A_NEU-rest" MM 1.40
+"++CONNECTOR_USB-BUCHSE-A_NEU-rest" "++CONNECTOR_USB-BUCHSE-A_NEU-rest" MM 1.45
 1 5.60000 -6.0500 0
 1 5.60000 6.0500 0
 1 20.0000 6.0500 0

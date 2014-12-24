@@ -29,3 +29,8 @@ SD tolerance +/- 0.15mm for both width and length (0.075mm per side)
 
 SC tolerance +/- 0.20mm for both width and length (0.10mm per side)
 
+SC height tolerance +/- 0.10mm (worst case +0.10mm)
+
+SD height tolerance (including the sd card) +/-0.20mm (worst case taken, +0.20mm)
+
+USB height tolerance +/- 0.10mm (splitted in two 0.05mm, for each side)
