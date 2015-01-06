@@ -34,3 +34,10 @@ SC height tolerance +/- 0.10mm (worst case +0.10mm)
 SD height tolerance (including the sd card) +/-0.20mm (worst case taken, +0.20mm)
 
 USB height tolerance +/- 0.10mm (splitted in two 0.05mm, for each side)
+
+Changed widths:
+"C1206" "C-EUC1206" -> 3.2 mm
+"C0603" "C-EUC0603" -> 1.6 mm
+"C0603K" "C-EUC0603K" -> 1.6 mm
+"R0603" "R-EU_R0603" -> 1.6 mm (towards negative-x axis)
+to include the full length of these components
