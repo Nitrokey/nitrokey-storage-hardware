@@ -41,3 +41,9 @@ Changed widths:
 "C0603K" "C-EUC0603K" -> 1.6 mm
 "R0603" "R-EU_R0603" -> 1.6 mm (towards negative-x axis)
 to include the full length of these components
+
+Changed the width of "---MJ_SOT223" "TLV1117-33CDCY" to the max according the datasheet
+Added the pads of "---MJ_SOT223" "TLV1117-33CDCY" as rectangles. Their height is not mentioned 
+and cannot be deduced from the datasheet so it is set to an approximation of half of the total component height
+
+Slots' widths resized to 0.7 mm (previously 1mm). The center is kept the same
