@@ -47,3 +47,5 @@ Added the pads of "---MJ_SOT223" "TLV1117-33CDCY" as rectangles. Their height is
 and cannot be deduced from the datasheet so it is set to an approximation of half of the total component height
 
 Slots' widths resized to 0.7 mm (previously 1mm). The center is kept the same
+
+Moved USB slot 1mm up

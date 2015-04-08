@@ -239,7 +239,7 @@ LIBRARY_FILE 3.0 "DesignSpark PCB 6.1" 2014/12/08.14:27:48 1 "" MM
 # and +/- 0.10 mm to the width (0.05mm per side)
 # Tolerance for widht is +/- 0.10 mm (0.05mm per side)
 .ELECTRICAL
-"++CONNECTOR_USB-BUCHSE-A_NEU" "++CONNECTOR_USB-BUCHSE-A_NEU" MM 2.1500
+"++CONNECTOR_USB-BUCHSE-A_NEU" "++CONNECTOR_USB-BUCHSE-A_NEU" MM 3.1500
 1 1.5000 -6.0500 0
 1 1.5000 6.0500 0
 1 20.2500 6.0500 0
@@ -264,7 +264,7 @@ LIBRARY_FILE 3.0 "DesignSpark PCB 6.1" 2014/12/08.14:27:48 1 "" MM
 # and +/- 0.10 mm to the width (0.05mm per side)
 # Tolerance for widht is +/- 0.10 mm (0.05mm per side)
 .ELECTRICAL
-"++CONNECTOR_USB-BUCHSE-A_NEU-rest" "++CONNECTOR_USB-BUCHSE-A_NEU-rest" MM 1.45
+"++CONNECTOR_USB-BUCHSE-A_NEU-rest" "++CONNECTOR_USB-BUCHSE-A_NEU-rest" MM 0.45
 1 5.60000 -6.0500 0
 1 5.60000 6.0500 0
 1 20.0000 6.0500 0
