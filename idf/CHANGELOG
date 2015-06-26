@@ -49,3 +49,5 @@ and cannot be deduced from the datasheet so it is set to an approximation of hal
 Slots' widths resized to 0.7 mm (previously 1mm). The center is kept the same
 
 Moved USB slot 1mm up
+
+Move USB component to match Pro's
