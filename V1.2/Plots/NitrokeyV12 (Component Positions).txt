@@ -1,0 +1,54 @@
+Component Positions Report
+--------------------------
+
+Report File:    E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\NitrokeyV12 (Component Positions).txt
+Report Written: Monday, October 05, 2015
+Project Path:   E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\NitrokeyV12.prj
+Design Path:    E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\NitrokeyV12.pcb
+Design Title:
+Created:        09.09.2011 17:00:27
+Last Saved:     05.10.2015 17:56:45
+Editing Time:   13644 min
+Units:          mm (precision 4)
+
+Name      Component                     Side                    Centre X    Centre Y  Rotation
+----------------------------------------------------------------------------------------------
+ScCon     ++CONNECTOR_SC                Bottom                   11.1876      9.2085    270.00
+CONN1     ++CONNECTOR_SD                Bottom                   27.5916      8.7271    180.00
+X1        ++CONNECTOR_USB-BUCHSE-A_NEU  Top                      44.7752      8.7605      0.00
+LED1      598-8621-207F                 Top                       4.2356      8.6355     90.00
+XTAL1     ABMM2-12.000MHZ-E2-T          Top                      25.7935      5.8855      0.00
+IC1       AT32UC3A3256S                 Top                      12.1935      7.8355    270.00
+C1        C-EUC0603                     Top                      32.8500     15.1500      0.00
+C16       C-EUC0603                     Top                       4.6000      1.4500    180.00
+C17       C-EUC0603                     Top                      20.3935      5.9855    180.00
+C18       C-EUC0603                     Top                      19.5435      8.8855     90.00
+C20       C-EUC0603                     Top                      19.2435      1.1855      0.00
+C9        C-EUC0603K                    Top                      18.8935     12.3355    270.00
+C10       C-EUC0603K                    Top                      23.1435      1.4355      0.00
+C11       C-EUC0603K                    Top                      14.9435      0.8355      0.00
+C12       C-EUC0603K                    Top                      13.5935     15.3355    270.00
+C13       C-EUC0603K                    Top                       7.9935      0.8355      0.00
+C14       C-EUC0603K                    Top                       7.4435     15.3355     90.00
+C15       C-EUC0603K                    Top                       4.1435      5.0855      0.00
+C19       C-EUC0603K                    Top                      21.3935      9.2855     90.00
+C2        C-EUC0805                     Top                      32.4000      2.3000      0.00
+C3        C-EUC0805                     Top                       4.3500     15.5000      0.00
+C4        C-EUC0805                     Top                      27.4500      1.1000      0.00
+C5        C-EUC0805                     Top                      10.3935     15.1855    180.00
+C6        C-EUC0805                     Top                      18.0500     16.1355    180.00
+J8        Passermarke                   Bottom                    0.9435     15.3700      0.00
+J9        Passermarke                   Top                       0.9435     15.4000      0.00
+J10       Passermarke                   Top                      35.3200      3.2000      0.00
+J11       Passermarke                   Bottom                   35.3100      3.2000      0.00
+R1        R-EU_R0603                    Top                      20.0935      2.7855      0.00
+R2        R-EU_R0603                    Top                      20.1935      4.2355      0.00
+R3        R-EU_R0603                    Top                      11.0935      1.4355    180.00
+R4        R-EU_R0603                    Top                       3.9935      2.7855      0.00
+R5        R-EU_R0603                    Top                       5.3435     13.1355     90.00
+R6        R-EU_R0603                    Top                       3.2935     13.1355     90.00
+R8        R-EU_R0603                    Top                      21.3935     12.3855     90.00
+R9        R-EU_R0603                    Top                      16.2435     14.4855    180.00
+IC3       TLV1117-33CDCY                Top                      26.0435     12.5768      0.00
+IC2       TPD2S017                      Top                      31.6435      7.4355      0.00
+----------------------------------------------------------------------------------------------

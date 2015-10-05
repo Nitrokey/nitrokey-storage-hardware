@@ -1,0 +1,399 @@
+PLOT REPORT
+-----------
+
+Report File:        E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\NitrokeyV12 (PCB - PLOT REPORT).txt
+Report Written:     Monday, October 05, 2015
+Project Path:       E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\NitrokeyV12.prj
+Design Path:        E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\NitrokeyV12.pcb
+Design Title:       
+Created:            09.09.2011 17:00:27
+Last Saved:         05.10.2015 18:22:57
+Editing Time:       13663 min
+Units:              mm (precision 4)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in mm.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\NitrokeyV12.mop"
+
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D11    Round 4.00
+    D12    Round 3.15
+    D13    Round 1.97
+    D14    Round 8.00
+    D15    Round 1.00
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Top Copper.gbr
+
+    Layers:
+    ------------------
+    Top Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 5.00
+    D16    Rectangle 43.31 X 39.37
+    D17    Rectangle 51.18 X 59.06
+    D18    Rectangle 41.34 X 42.52  Rotation 90
+    D19    Rectangle 41.34 X 42.52
+    D70    Rectangle 43.31 X 39.37  Rotation 90
+    D71    Round 13.78
+    D20    Rectangle 48.00 X 88.00
+    D21    Rectangle 141.73 X 86.61
+    D22    Rectangle 39.37 X 43.31
+    D23    Rectangle 39.37 X 43.31  Rotation 90
+    D24    Rectangle 86.61 X 47.24
+    D25    Round 130.55
+    D26    Round 59.18
+    D27    Rectangle 59.06 X 74.80
+    D28    Rectangle 55.12 X 70.87  Rotation 90
+    D29    Round 39.37
+    D72    Rectangle 23.62 X 47.24
+    D73    Round 17.72
+    D74    Round 24.00
+    D75    Round 16.00
+    D76    Round 12.00
+    D77    Round 5.90
+    D78    Round 47.24
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Top Copper (Paste).gbr
+
+    Layers:
+    ------------------
+    Top Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 5.00
+    D79    Rectangle 39.31 X 35.37
+    D80    Rectangle 47.18 X 55.06
+    D81    Rectangle 37.34 X 38.52  Rotation 90
+    D82    Rectangle 37.34 X 38.52
+    D83    Rectangle 39.31 X 35.37  Rotation 90
+    D84    Round 9.78
+    D85    Rectangle 44.00 X 84.00
+    D86    Rectangle 137.73 X 82.61
+    D87    Rectangle 35.37 X 39.31
+    D88    Rectangle 35.37 X 39.31  Rotation 90
+    D89    Rectangle 82.61 X 43.24
+    D90    Rectangle 55.06 X 70.80
+    D91    Rectangle 51.12 X 66.87  Rotation 90
+    D92    Round 35.37
+    D93    Rectangle 19.62 X 43.24
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Documentation.gbr
+
+    Layers:
+    ------------------
+    Documentation
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D11    Round 4.00
+    D15    Round 1.00
+    D94    Round 6.00
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 5.00
+    D95    Rectangle 49.31 X 45.37
+    D96    Rectangle 57.18 X 65.06
+    D97    Rectangle 47.34 X 48.52  Rotation 90
+    D98    Rectangle 47.34 X 48.52
+    D99    Rectangle 49.31 X 45.37  Rotation 90
+    D100   Round 19.78
+    D101   Rectangle 54.00 X 94.00
+    D102   Rectangle 147.73 X 92.61
+    D103   Rectangle 45.37 X 49.31
+    D104   Rectangle 45.37 X 49.31  Rotation 90
+    D105   Rectangle 92.61 X 53.24
+    D106   Round 136.55
+    D107   Round 65.18
+    D108   Rectangle 65.06 X 80.80
+    D109   Rectangle 61.12 X 76.87  Rotation 90
+    D110   Round 45.37
+    D111   Rectangle 29.62 X 53.24
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - VDD Plane (Powerplane).gbr
+
+    Layers:
+    ----------------------------------------------------------------------------------------
+    VDD Plane       - Plane Isolation Gap 15.75 Thermal Connect Width 10.00 with 4 Spokes
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------------------------
+    D112   Round 162.05
+    D113   Round 90.68
+    D114   Round 17.72  Thermal Relief Pad
+    D115   Round 24.00  Thermal Relief Pad
+    D116   Round 16.00  Thermal Relief Pad
+    D117   Round 55.50
+    D118   Round 49.21
+    D119   Round 47.50
+    D120   Round 36.50
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - GND Plane (Powerplane).gbr
+
+    Layers:
+    ----------------------------------------------------------------------------------------
+    GND Plane       - Plane Isolation Gap 15.75 Thermal Connect Width 10.00 with 4 Spokes
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ------------------------------------------
+    D113   Round 90.68
+    D114   Round 17.72  Thermal Relief Pad
+    D115   Round 24.00  Thermal Relief Pad
+    D116   Round 16.00  Thermal Relief Pad
+    D117   Round 55.50
+    D118   Round 49.21
+    D119   Round 47.50
+    D120   Round 36.50
+    D121   Round 130.55  Thermal Relief Pad
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Bottom Copper.gbr
+
+    Layers:
+    ------------------
+    Bottom Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 5.00
+    D25    Round 130.55
+    D26    Round 59.18
+    D29    Round 39.37
+    D73    Round 17.72
+    D74    Round 24.00
+    D75    Round 16.00
+    D76    Round 12.00
+    D77    Round 5.90
+    D122   Round 3.94
+    D123   Rectangle 39.37 X 66.93  Rotation 90
+    D124   Rectangle 33.46 X 62.99
+    D125   Rectangle 65.75 X 70.87
+    D126   Rectangle 53.15 X 80.71  Rotation 90
+    D127   Rectangle 29.53 X 62.99
+    D128   Rectangle 72.83 X 74.80  Rotation 90
+    D129   Rectangle 25.59 X 84.65
+    D130   Rectangle 47.24 X 51.18
+    D131   Rectangle 66.93 X 94.49  Rotation 90
+    D132   Rectangle 21.26 X 31.50
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Bottom Copper (Paste).gbr
+
+    Layers:
+    ------------------
+    Bottom Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 5.00
+    D92    Round 35.37
+    D133   Rectangle 35.37 X 62.93  Rotation 90
+    D134   Rectangle 29.46 X 58.99
+    D135   Rectangle 61.75 X 66.87
+    D136   Rectangle 49.15 X 76.71  Rotation 90
+    D137   Rectangle 25.53 X 58.99
+    D138   Rectangle 68.83 X 70.80  Rotation 90
+    D139   Rectangle 21.59 X 80.65
+    D140   Rectangle 43.24 X 47.18
+    D141   Rectangle 62.93 X 90.49  Rotation 90
+    D142   Rectangle 17.26 X 27.50
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D13    Round 1.97
+    D14    Round 8.00
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D10    Round 5.00
+    D106   Round 136.55
+    D107   Round 65.18
+    D110   Round 45.37
+    D143   Rectangle 45.37 X 72.93  Rotation 90
+    D144   Rectangle 39.46 X 68.99
+    D145   Rectangle 71.75 X 76.87
+    D146   Rectangle 59.15 X 86.71  Rotation 90
+    D147   Rectangle 35.53 X 68.99
+    D148   Rectangle 78.83 X 80.80  Rotation 90
+    D149   Rectangle 31.59 X 90.65
+    D151   Rectangle 53.24 X 57.18
+    D152   Rectangle 72.93 X 100.49  Rotation 90
+    D153   Rectangle 27.26 X 37.50
+
+NC Drill Output
+===============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.00787 in 27    I
+    T002  000.00800 in 12    D
+    T003  000.01200 in 51    E
+    T004  000.04724 in 2     K
+    T005  000.09843 in 2     J
+    ------------------------------------
+    Total              94
+    ------------------------------------
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02500 in 1
+    ------------------------------------
+    Total              1
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    8     Y      100  Round D
+    12    Y      100  Round E
+    8     Y      100  Round I
+    98    Y      100  Round J
+    47    Y      100  Round K
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D150   Round 100.00
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\Nitrokey_Hardware\nitrokey-storage-hardware\V1.2\Plots\NitrokeyV12 - Kontur.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+
+End Of Report.

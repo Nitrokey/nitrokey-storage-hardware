@@ -1,0 +1,124 @@
+++CONNECTOR_LED-DUORG-3MM||#++CONNECTOR_LED-DUO3MM=3||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+++CONNECTOR_SC||#USER=14||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=1.5
+++CONNECTOR_SCSD-ST5||#USER=20||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+++CONNECTOR_SD||#USER=14||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=1.5
+++CONNECTOR_SD_MOLEX||#USER=0||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+++CONNECTOR_USB-BUCHSE-A||#++CONNECTOR_USB-BUCHSE-A=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+++CONNECTOR_USB-BUCHSE-A_NEU||#++CONNECTOR_USB-BUCHSE-A=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
++3V3
++5V
++12V
++15V
++18V
++24V
+---MJ_LDO+223||#---MJ_SOT223=4||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+-5V
+-12V
+-15V
+-18V
+-24V
+0R||#0R	10=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+0R2||#0R2	10=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+0V
+598-8621-207F||#USER=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+A4L-LOC
+ABMM2-12.000MHZ-E2-T||#USER=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+AGND
+AT32UC3A0128/0256/0512||#LQFP144=144||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+AT32UC3A1512/1256/1128||#TQFP100=100||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+AT32UC3A3256S||#BGA144-08=144||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ATMEL--_AT32UC3A0X||#ATMEL--_TQFP144=144||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+AVR-JTAG-10||#AVR-JTAG-10=10||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+AVR-JTAG-10-5103309-1||#HDR-5103309-1=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+AVR-JTAG-10-R||#AVR-JTAG-10R=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C-EUC0603||#C0603=2||@RS Part Number=||@Allied_Number=||@Mfr=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Component Height=||@Datasheet=||@Package=||@Other Part Number=||@3D Package=||@Height=1.1
+C-EUC0603K||#C0603K=2||@RS Part Number=||@Allied_Number=||@Mfr=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Component Height=||@Datasheet=||@Package=||@Other Part Number=||@3D Package=||@Height=1.1
+C-EUC0805||#C1206=2||@RS Part Number=||@Allied_Number=||@Mfr=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Component Height=||@Datasheet=||@Package=||@Other Part Number=||@3D Package=||@Height=1
+C-EUC1206||#C1206=2||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C-EUC1206K||#C1206K=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+GND
+GNDA
+GNDI
+GNDINT
+GNDIO
+HC49-H4||#HC49-H4=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+J2X2MM||#04C=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+J2X5MM||#05C=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+J5MM||#05=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+J7MM||#07=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+J10MM||#10=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+J12MM||#12=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+J15MM||#15=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+J20MM||#20=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+J25MM||#25=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+J30MM||#30=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP1E||#JP1=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP1Q||#JP1=2||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP2E||#JP2=3||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP2Q||#JP2Q=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP2QE||#JP2Q=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP2W||#JP2W=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP3Q||#JP3Q=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP3QE||#JP3Q=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP4E||#JP4=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP4Q||#JP4Q=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP4QE||#JP4Q=8||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP5Q||#JP5Q=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP5QE||#JP5Q=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP6Q||#JP6Q=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP6QE||#JP6Q=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP7Q||#JP7Q=14||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP7QE||#JP7Q=14||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP8Q||#JP8Q=16||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP8QE||#JP8Q=16||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP9Q||#JP9Q=18||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP9QE||#JP9Q=18||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP10Q||#JP10Q=20||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP10QE||#JP10Q=20||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JP_7_1.27mm||#USER=7||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JUMP-Q||#JUMP=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JUMPER||#JUMP=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JUMPER_JP1Q||#JUMPER_JP1=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JUMPER_JP2E||#JUMPER_JP2=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+JUMPER_JP3Q||#JUMPER_JP3Q=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MTF38||#MTF38=2||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+pad01r||#USER=0||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Passermarke||#USER=1||@RS Part Number=||@Allied_Number=||@Mfr=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Component Height=||@Datasheet=||@Package=||@Other Part Number=||@3D Package=||@Height=0
+PE
+POTENTIOMETER_PT-10||#PT-10=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+POTENTIOMETER_PT-10S||#PT-10S=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+POTENTIOMETER_PT_SPIN||#PT-SPIN=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+R-EU_R0402||#R0402=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+R-EU_R0603||#R0603=2||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=0.6
+R-EU_R0805||#R0805=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+R-EU_R0805W||#R0805W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+R-EU_R1005||#R1005=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+R-EU_R1206||#R1206=2||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+R-EU_R1206W||#R1206W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+RAHMEN_A4L-LOC
+SAM9708||#TQFP144=144||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SC-P||#SC-P=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SC/SD-ST5||#SC	SD-ST5=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SDE2506P||#DIL08=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SJ||#SJ=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SJ2W||#SJ_2=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SJ2WW||#SJ_2W=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SJW||#SJW=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SUPPLY1_GND
+SUPPLY1_VDD
+TEST BGA||#USER=324||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+TH
+TLV1117-33CDCY||#---MJ_SOT223=4||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+TPD2S017||#USER=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+USB-BUCHSE-A||#USB-BUCHSE-A=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+USBLC6-2||#USER=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+V+
+V-
+VCC
+VCC/2
+VCCINT
+VCCIO
+VDD
+VSS
+X-SMD1||#X32-12=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+XTAL-OSC_MTF38||#XTAL-OSC_MTF38=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
