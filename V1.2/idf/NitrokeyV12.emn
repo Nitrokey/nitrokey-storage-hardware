@@ -1,5 +1,6 @@
 .HEADER
-LIBRARY_FILE 3.0 "Georgios Gkitsas (ggkitsas@yahoo.com)" 2015/10/06.08:46:52 1 "" MM
+BOARD_FILE 3.0 ""Georgios Gkitsas (ggkitsas@yahoo.com)" 2015/10/06.08:46:52 1
+"NitrokeyV12" MM
 .END_HEADER
 
 .BOARD_OUTLINE UNOWNED
