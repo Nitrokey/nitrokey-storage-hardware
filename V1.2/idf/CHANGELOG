@@ -1,0 +1,56 @@
+Export IDF from DesignSpark.
+
+Add height of the components by manually manipulating IDF. See datasheets at BOM.
+For the capacitors and resistors that it's not clear which height is needed, choose 
+the worst case of the family of the component.
+
+Some capacitors and resistors seem to be either  rotated or not in actual width and length.
+These compoents where centered and rotated, but this should NOT taken for granted because
+this issue is still PENDING! This components might have to be resized instead of centered + rotated
+
+Use two components to "emulate" the USB. One on TOP and the other on BOTTOM of the pcb.
+There will be a gap in the z-coord that the pcb exists.
+Take care that the resulting pair of components has correct total height (including the gap) and is placed
+correctly in the z-axis
+WARNING! The coordinates between these two components are mirrored! So the "left" for the one is on the "right" for the other.
+Keep that in mind when manually manipulate them.
+
+USB plug dimensions are smaller in the automatically produced IDF. Change them manually (consult datasheet)
+
+Add PCB slots 1x1 mm to the PCB outline
+
+PCB tolerances
+
+USB tolerance 0.25mm added only to the "free" side (all the tolerance, not the half).
+The other side is fixed to the PCB
+Tolerance for widht is +/- 0.10 mm (0.05mm per side)
+
+SD tolerance +/- 0.15mm for both width and length (0.075mm per side)
+
+SC tolerance +/- 0.20mm for both width and length (0.10mm per side)
+
+SC height tolerance +/- 0.10mm (worst case +0.10mm)
+
+SD height tolerance (including the sd card) +/-0.20mm (worst case taken, +0.20mm)
+
+USB height tolerance +/- 0.10mm (splitted in two 0.05mm, for each side)
+
+Changed widths:
+"C1206" "C-EUC1206" -> 3.2 mm
+"C0603" "C-EUC0603" -> 1.6 mm
+"C0603K" "C-EUC0603K" -> 1.6 mm
+"R0603" "R-EU_R0603" -> 1.6 mm (towards negative-x axis)
+to include the full length of these components
+
+Changed the width of "---MJ_SOT223" "TLV1117-33CDCY" to the max according the datasheet
+Added the pads of "---MJ_SOT223" "TLV1117-33CDCY" as rectangles. Their height is not mentioned 
+and cannot be deduced from the datasheet so it is set to an approximation of half of the total component height
+
+Slots' widths resized to 0.7 mm (previously 1mm). The center is kept the same
+
+Moved USB slot 1mm up
+
+Move USB component to match Pro's
+
+13/10/2015: Georgios Gkitsas (ggkitsas)
+* Changed the capacitors C1206 and C0603 to the new ones C0805 and C0603
