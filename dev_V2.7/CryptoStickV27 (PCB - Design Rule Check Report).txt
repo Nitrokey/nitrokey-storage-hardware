@@ -1,0 +1,83 @@
+Design Rule Check Report
+------------------------
+
+Report File    : E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\CryptoStickV27 (PCB - Design Rule Check Report).txt
+Report Written : Wednesday, July 09, 2014
+Project Path   : E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\stick27-p.prj
+Design Path    : E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\CryptoStickV27.pcb
+Design Title   : 
+Created        : 09.09.2011 17:00:27
+Last Saved     : 02.07.2014 14:22:58
+Editing Time   : 12205 min
+Units          : mm (precision 4)
+
+
+Results
+=======
+
+Via to Text error (V-X) at (11.1500 3.1000) on layer "Bottom Copper".
+    Error between Via (Net 'GND') and Text, Gap is 0.0000 needs to be 0.0010.
+Line width too small at (6.5500,2.5000)
+    Size is 0.1000 should be 0.1499.
+Text to Board Error (X-B) between (12.2000 1.4900) and (12.2000 1.4000) on Layer "Bottom Copper".
+    Error between Text and Board, Gap is 0.0265 needs to be 0.2000.
+Line width too small at (6.5500,15.2000)
+    Size is 0.1000 should be 0.1499.
+Component to Board error (Cm-B) at (39.3500 10.1750) on layer "[Top]".
+    X1.
+Component to Component error (Cm-Cm) at (38.2500 15.4000) on layer "[Top]".
+    X1 - C1, Gap is 0.0000.
+Component to Component error (Cm-Cm) at (38.3000 2.9170) on layer "[Top]".
+    X1 - C2, Gap is 0.0000.
+Component to Component error (Cm-Cm) at (40.0000 2.9170) on layer "[Top]".
+    X1 - J10, Gap is 0.0000.
+Component to Board error (Cm-B) at (7.6500 11.0500) on layer "[Bottom]".
+    ScCon.
+
+Number of errors found : 9
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks         Yes
+Pads and Vias  Yes
+Shapes         Yes
+Text           Yes
+Board          Yes
+Drills         Yes
+Components     Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                   No
+Drill Backoff                    No
+Silkscreen Overlap               No
+Copper Text In Board             No
+Min Track Width                  Yes
+Min Annular Ring                 Yes
+Min Paste Size                   No
+Vias In Pads                     No
+Unplated Vias                    Yes
+Unplated Pads With Inner Tracks  Yes
+
+
+Nets
+
+=====
+
+Net Completion                Yes
+Dangling Tracks               Yes
+Net Track Length Differences  No
+
+
+
+End Of Report.

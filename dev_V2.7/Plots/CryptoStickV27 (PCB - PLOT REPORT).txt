@@ -1,0 +1,395 @@
+PLOT REPORT
+-----------
+
+Report File    : E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\CryptoStickV27 (PCB - PLOT REPORT).txt
+Report Written : Wednesday, July 09, 2014
+Project Path   : E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\stick27-p.prj
+Design Path    : E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\CryptoStickV27.pcb
+Design Title   : 
+Created        : 09.09.2011 17:00:27
+Last Saved     : 02.07.2014 14:22:58
+Editing Time   : 12213 min
+Units          : mm (precision 4)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.3 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 2.3 absolute in mm.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\CryptoStickV27.mop"
+
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - Top Silkscreen.gbr
+
+    Layers:
+    ----------------
+    Top Silkscreen
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------
+    D22     Round 5.00
+    D24     Round 4.00
+    D25     Round 1.97
+    D26     Round 8.00
+    D27     Round 1.00
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - Top Copper.gbr
+
+    Layers:
+    ----------------
+    Top Copper
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D22     Round 5.00
+    D24     Round 4.00
+    D28     Rectangle 62.99 X 70.87
+    D29     Rectangle 41.34 X 42.52  Rotation 90
+    D72     Rectangle 41.34 X 42.52
+    D73     Rectangle 43.31 X 39.37
+    D74     Rectangle 43.31 X 39.37  Rotation 90
+    D75     Round 13.78
+    D76     Rectangle 48.00 X 88.00
+    D77     Rectangle 141.73 X 86.61
+    D78     Rectangle 39.37 X 43.31
+    D79     Rectangle 39.37 X 43.31  Rotation 90
+    D80     Rectangle 86.61 X 47.24
+    D81     Round 130.55
+    D82     Round 59.18
+    D83     Rectangle 59.06 X 74.80
+    D84     Rectangle 55.12 X 70.87  Rotation 90
+    D85     Round 39.37
+    D86     Rectangle 23.62 X 47.24
+    D87     Round 39.37
+    D88     Round 17.72
+    D89     Round 24.00
+    D90     Round 16.00
+    D91     Round 12.00
+    D92     Round 5.90
+    D93     Round 47.24
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - Top Copper (Paste).gbr
+
+    Layers:
+    ------------
+    Top Copper
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D94     Rectangle 58.99 X 66.87
+    D95     Rectangle 37.34 X 38.52  Rotation 90
+    D96     Rectangle 37.34 X 38.52
+    D97     Rectangle 39.31 X 35.37
+    D98     Rectangle 39.31 X 35.37  Rotation 90
+    D99     Round 9.78
+    D100    Rectangle 44.00 X 84.00
+    D101    Rectangle 137.73 X 82.61
+    D102    Rectangle 35.37 X 39.31
+    D103    Rectangle 35.37 X 39.31  Rotation 90
+    D104    Rectangle 82.61 X 43.24
+    D105    Rectangle 55.06 X 70.80
+    D106    Rectangle 51.12 X 66.87  Rotation 90
+    D107    Round 35.37
+    D108    Rectangle 19.62 X 43.24
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - Documentation.gbr
+
+    Layers:
+    ----------------
+    Documentation
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------
+    D22     Round 5.00
+    D24     Round 4.00
+    D27     Round 1.00
+    D109    Round 6.00
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - Top Solder Mask.gbr
+
+    Layers:
+    -----------------
+    Top Solder Mask
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D10     Round 136.55
+    D11     Round 65.18
+    D12     Round 45.37
+    D21     Round 45.37
+    D110    Rectangle 68.99 X 76.87
+    D111    Rectangle 47.34 X 48.52  Rotation 90
+    D112    Rectangle 47.34 X 48.52
+    D113    Rectangle 49.31 X 45.37
+    D114    Rectangle 49.31 X 45.37  Rotation 90
+    D115    Round 19.78
+    D116    Rectangle 54.00 X 94.00
+    D117    Rectangle 147.73 X 92.61
+    D118    Rectangle 45.37 X 49.31
+    D119    Rectangle 45.37 X 49.31  Rotation 90
+    D120    Rectangle 92.61 X 53.24
+    D121    Rectangle 65.06 X 80.80
+    D122    Rectangle 61.12 X 76.87  Rotation 90
+    D123    Rectangle 29.62 X 53.24
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - VDD Plane (Powerplane).gbr
+
+    Layers:
+    --------------------------------------------------------------------------------------
+    VDD Plane        - Plane Isolation Gap 15.75 Thermal Connect Width 10.00 with 4 Spokes
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------------------------
+    D124    Round 162.05
+    D125    Round 90.68
+    D126    Round 70.87
+    D127    Round 39.37  Thermal Relief Pad
+    D128    Round 17.72  Thermal Relief Pad
+    D129    Round 24.00  Thermal Relief Pad
+    D130    Round 16.00  Thermal Relief Pad
+    D131    Round 55.50
+    D132    Round 49.21
+    D133    Round 47.50
+    D134    Round 36.50
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - GND Plane (Powerplane).gbr
+
+    Layers:
+    --------------------------------------------------------------------------------------
+    GND Plane        - Plane Isolation Gap 15.75 Thermal Connect Width 10.00 with 4 Spokes
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ----------------------------------------
+    D125    Round 90.68
+    D126    Round 70.87
+    D127    Round 39.37  Thermal Relief Pad
+    D128    Round 17.72  Thermal Relief Pad
+    D129    Round 24.00  Thermal Relief Pad
+    D130    Round 16.00  Thermal Relief Pad
+    D131    Round 55.50
+    D132    Round 49.21
+    D133    Round 47.50
+    D134    Round 36.50
+    D135    Round 130.55  Thermal Relief Pad
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - Bottom Copper.gbr
+
+    Layers:
+    ----------------
+    Bottom Copper
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D22     Round 5.00
+    D81     Round 130.55
+    D82     Round 59.18
+    D85     Round 39.37
+    D87     Round 39.37
+    D88     Round 17.72
+    D89     Round 24.00
+    D90     Round 16.00
+    D91     Round 12.00
+    D92     Round 5.90
+    D136    Round 3.94
+    D137    Rectangle 39.37 X 66.93  Rotation 90
+    D138    Rectangle 33.46 X 62.99
+    D139    Rectangle 65.75 X 70.87
+    D140    Rectangle 53.15 X 80.71  Rotation 90
+    D141    Rectangle 29.53 X 62.99
+    D142    Rectangle 72.83 X 74.80  Rotation 90
+    D143    Rectangle 25.59 X 84.65
+    D144    Rectangle 47.24 X 51.18
+    D145    Rectangle 66.93 X 94.49  Rotation 90
+    D146    Rectangle 21.26 X 31.50
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - Bottom Copper (Paste).gbr
+
+    Layers:
+    ----------------
+    Bottom Copper
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D22     Round 5.00
+    D107    Round 35.37
+    D147    Rectangle 35.37 X 62.93  Rotation 90
+    D148    Rectangle 29.46 X 58.99
+    D149    Rectangle 61.75 X 66.87
+    D150    Rectangle 49.15 X 76.71  Rotation 90
+    D151    Rectangle 25.53 X 58.99
+    D152    Rectangle 68.83 X 70.80  Rotation 90
+    D153    Rectangle 21.59 X 80.65
+    D154    Rectangle 43.24 X 47.18
+    D155    Rectangle 62.93 X 90.49  Rotation 90
+    D156    Rectangle 17.26 X 27.50
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - Bottom Silkscreen.gbr
+
+    Layers:
+    -------------------
+    Bottom Silkscreen
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------
+    D22     Round 5.00
+    D25     Round 1.97
+    D26     Round 8.00
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - Bottom Solder Mask.gbr
+
+    Layers:
+    --------------------
+    Bottom Solder Mask
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------------------------------
+    D10     Round 136.55
+    D11     Round 65.18
+    D12     Round 45.37
+    D13     Rectangle 45.37 X 72.93  Rotation 90
+    D14     Rectangle 39.46 X 68.99
+    D15     Rectangle 71.75 X 76.87
+    D16     Rectangle 59.15 X 86.71  Rotation 90
+    D17     Rectangle 35.53 X 68.99
+    D18     Rectangle 78.83 X 80.80  Rotation 90
+    D19     Rectangle 31.59 X 90.65
+    D70     Rectangle 53.24 X 57.18
+    D71     Rectangle 72.93 X 100.49  Rotation 90
+    D20     Rectangle 27.26 X 37.50
+    D21     Round 45.37
+    D22     Round 5.00
+
+NC Drill Output
+===============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - Drill Data - Through Hole.drl
+
+    Output:
+    --------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool   Size       Count    ID
+    -----------------------------
+    T001   00.008 in  27     I
+    T002   00.008 in  12     D
+    T003   00.012 in  51     E
+    T004   00.028 in  7      L
+    T005   00.047 in  2      K
+    T006   00.098 in  2      J
+    -----------------------------
+    Total             101
+    -----------------------------
+    Tool   Size       Count    ID
+    -----------------------------
+    T001   00.025 in  1
+    -----------------------------
+    Total             1
+    -----------------------------
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - Drill Ident Drawing - Through Hole.gbr
+
+    Layers:
+    ----------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill  Plated  Size  Shape  ID
+    ------------------------------
+    8      Y       100   Round  D
+    12     Y       100   Round  E
+    8      Y       100   Round  I
+    98     Y       100   Round  J
+    47     Y       100   Round  K
+    28     Y       100   Round  L
+
+    D-Code  Shape  (thou)
+    ---------------------
+    D22     Round 5.00
+    D23     Round 100.00
+
+Gerber Output
+=============
+
+E:\rudi\Stick\Repositorys\assembla\tags\v2.0-production-rc7\Plots\CryptoStickV27 - Kontur.gbr
+
+    Layers:
+    ----------------
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------
+    D22     Round 5.00
+
+End Of Report.
