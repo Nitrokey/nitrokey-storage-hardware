@@ -1,4 +1,6 @@
-# Nitrokey Storage
+# Nitrokey Storage 2
+
+This repository contains the hardware layout and schematics of the Nitrokey Storage and Nitrokey Storage 2.
 
 ## Replacing PCB
 
